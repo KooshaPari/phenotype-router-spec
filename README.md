@@ -87,7 +87,17 @@ The agent-facing **wire** is published separately at
 
 ## License
 
-Dual MIT/Apache-2.0. See [LICENSE-MIT](LICENSE-MIT) and [LICENSE-APACHE](LICENSE-APACHE).
+Dual MIT/Apache-2.0. See [LICENSE](./LICENSE) (MIT) and [LICENSE-APACHE](./LICENSE-APACHE) (Apache-2.0).
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on proposing changes,
+reporting issues, and validating schemas.
+
+- [Issue templates](./.github/ISSUE_TEMPLATE/) — file protocol-change and bug-report issues
+- [PR template](./.github/PULL_REQUEST_TEMPLATE.md) — checklist for schema/doc changes
+- [CODEOWNERS](./CODEOWNERS) — automatic review assignment
+- [Threat model](./docs/threat-model.md) — STRIDE analysis of protocol envelopes
 
 ## Related repos
 
